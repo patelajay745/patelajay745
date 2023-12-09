@@ -17,6 +17,9 @@ I'm a passionate technology enthusiast with a strong foundation in software deve
 
 ## 🌟 Achievements
 
+- AWS Certified DevOps Professtional
+- Google Certified Cloud Engineer- Associate
+- AWS Certified Developer Associate
 - CKA: Certified Kubernetes Administrator
 - HashiCorp Certified: Terraform Associate (003)
 - AWS Certified Solutions Architect
