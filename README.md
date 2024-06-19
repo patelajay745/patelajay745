@@ -2,6 +2,8 @@
 
 I'm a passionate technology enthusiast with a strong foundation in software development and a deep interest in DevOps practices. I'm constantly exploring new technologies and love to solve complex problems.
 
+[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelajay745)](https://github.com/patelajay745/github-readme-stats)
+
 ## 🔧 Skills
 
 - DevOps: AWS, CI/CD, Jenkins, CircleCI, Ansible, Terraform
