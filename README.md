@@ -8,7 +8,7 @@ I'm a passionate technology enthusiast with a strong foundation in software deve
 
 - DevOps: AWS, CI/CD, Jenkins, CircleCI, Ansible, Terraform
 - Containers and Orchestration: Docker, Kubernetes
-- Programming Languages: PHP, Python, Java, Kotlin
+- Programming Languages: JavScript, Golang, PHP, Python, Java, Kotlin
 - Scripting Languages: Bash Shell, Maven/Gradle scripting
 - Project Management: Agile, Scrum, IT Project Management
 - Networking: TCP/IP, VPC, subnetting, VPNs
