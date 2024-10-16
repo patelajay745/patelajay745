@@ -2,7 +2,7 @@
 
 I'm a passionate technology enthusiast with a strong foundation in software development and a deep interest in DevOps practices. I'm constantly exploring new technologies and love to solve complex problems.
 
-![Ajay Patel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajay Patel&theme=gruvbox&hide_border=false)
+![Ajay Patel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patelajay745&theme=gruvbox&hide_border=false)
 
 [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelajay745&theme=vue)](https://github.com/patelajay745/github-readme-stats)
 
