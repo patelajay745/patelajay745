@@ -6,7 +6,7 @@ I am a passionate Full Stack Developer and DevOps Engineer with a focus on creat
 
 As a constant learner, I enjoy contributing to open-source projects and expanding my knowledge in areas such as Kubernetes, containerization, and DevOps tools like Jenkins, Terraform, and Ansible. My goal is to continuously improve and apply best practices in both software development and cloud infrastructure.
 
-![Ajay Patel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patelajay745&theme=gruvbox&hide_border=false)
+
 
 [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelajay745&theme=vue)](https://github.com/patelajay745/github-readme-stats)
 
