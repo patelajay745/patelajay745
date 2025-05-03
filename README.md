@@ -24,6 +24,6 @@ As a constant learner, I enjoy contributing to open-source projects and expandin
 
 ## 📫 Contact
 
-You can reach out to me via email at patel.ajay745@gmail.com. Let's connect!
+You can reach out to me via email at ajay@ajaypatel.live Let's connect!
 
 Happy coding! 🚀👨‍💻
