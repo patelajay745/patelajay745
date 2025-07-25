@@ -2,11 +2,7 @@
 
 ## Full Stack Developer | DevOps Engineer 
 
-I am a passionate Full Stack Developer and DevOps Engineer with a focus on creating scalable and efficient applications. My expertise spans across backend development, cloud computing, and automation, helping to deliver cost-effective and highly available solutions. I thrive in building serverless applications, microservices architectures, and leveraging modern cloud platforms like AWS, Azure, and Google Cloud to design secure, optimized systems.
-
-As a constant learner, I enjoy contributing to open-source projects and expanding my knowledge in areas such as Kubernetes, containerization, and DevOps tools like Jenkins, Terraform, and Ansible. My goal is to continuously improve and apply best practices in both software development and cloud infrastructure.
-
-
+Automating the path from idea to deployment.
 
 [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelajay745&theme=vue)](https://github.com/patelajay745/github-readme-stats)
 
