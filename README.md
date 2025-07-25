@@ -1,6 +1,6 @@
 # Hello, I'm Ajay Patel! 👋
 
-## Full Stack Developer | DevOps Engineer 
+## Full Stack Developer 
 
 Automating the path from idea to deployment.
 
